@@ -1,0 +1,10 @@
+.input-form{
+    border: 1px solid black;
+    border-radius: 30px;
+    margin: 30px;
+    padding: 30px;
+    z-index: 100;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
